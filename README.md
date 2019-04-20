@@ -1,4 +1,4 @@
-# Chrome Tampermonkey Script - HTML5 Video Playback Speed Controller##
+# Chrome Tampermonkey Script - HTML5 Video Playback Speed Controller
 Features:
 * Injected to all frames
 * Preferred Speed (Adjustable)
